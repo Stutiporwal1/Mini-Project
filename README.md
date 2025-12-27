@@ -3,5 +3,8 @@
 A collection of small projects created to practice, explore, and experiment with different technologies.  
 This repository is a growing archive of hands-on learning and creative problem-solving! 
 
+## Repository Structure
+Each folder represents a standalone mini-project with its own documentation, setup instructions, and code.
+
 
 
