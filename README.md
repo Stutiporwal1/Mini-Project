@@ -16,7 +16,7 @@ Each folder represents a standalone mini-project with its own documentation, set
 | **Restaurant**         | Restaurant webpage with pages like Visit Us / About. |
 | **Rock Paper Scissor** | Solo game implemented with simple game logic in JS. |
 | **TrackerExpense**     | Expense tracker and calculator for daily budgeting. |
-| **Main Portfolio (root)** | Landing page listing all the sub projects with filters and search. |
+
 
 
 
