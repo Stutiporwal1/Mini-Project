@@ -10,7 +10,6 @@ Each folder represents a standalone mini-project with its own documentation, set
 
 | Project Name          | Description |
 |-----------------------|--------------|
-| **CV Screener**        | A tool to browse and screen CVs using simple next/previous controls. |
 | **Store**              | Basic checkout page with user forms and cart elements. |
 | **Tourist Website**    | A responsive landing website for tourism services. |
 | **Book Website**       | Shopping/cart functionality for book purchasing. |
